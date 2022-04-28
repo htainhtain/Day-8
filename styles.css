@@ -47,6 +47,7 @@ form input{
   transition: 0.3s ease;
   color: white;
   caret-color: white;
+  outline: none;
 }
 
 form input.focus  {
